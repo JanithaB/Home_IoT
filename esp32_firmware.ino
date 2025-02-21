@@ -3,8 +3,8 @@
 #include <PubSubClient.h>
 
 // WiFi credentials
-const char* ssid = "The_Rise";
-const char* password = "OfficialRise@#998";
+const char* ssid = "your SSID";
+const char* password = "your password";
 
 // MQTT broker details
 const char* mqtt_server = "7c5205f9eebc472087ef39b2f7e42387.s1.eu.hivemq.cloud";
